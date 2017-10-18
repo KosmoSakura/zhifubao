@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!--以下 默认元素颜色-->
+    <color name="default_blue">#108ee9</color>
+    <color name="default_blue_light">#00fdff</color>
+    <color name="default_red">#FF717F</color>
+    <color name="default_light_blue">#5501b5c6</color>
+    <color name="default_black">#333333</color>
+    <color name="default_gray">#666666</color>
+    <color name="default_light_gray">#999999</color>
+    <color name="deafult_tab_gray">#7C9494</color>
+    <color name="default_line">#cccccc</color>
+    <color name="default_bg">#f2f2f2</color>
+    <color name="default_bg_btn_gray">#cccccc</color>
+    <color name="default_bq_gray">#f1f1f1</color>
+    <color name="default_bg_popup">#55000000</color>
+    <color name="default_et_hint">#c0c0c0</color>
+    <color name="default_orange">#FF8400</color>
+    <color name="default_green">#0ABE1E</color>
+    <!--以上 默认元素颜色-->
+
+    <color name="bg_btn_del">#f7f7f7</color>
+    <color name="color_login_btn">#999999</color>
+    <color name="color_light_gray">#999999</color>
+    <color name="color_light_gray2">#55999999</color>
+    <color name="color_divider">#55999999</color>
+    <color name="hint_color">#C0C0C0</color>
+    <color name="signed_green">#84b872</color>
+    <color name="signed_blue">#01b8c9</color>
+    <color name="province_line_border">#696969</color>
+    <color name="province_line_border_test">#bc2323</color>
+
+    <!--透明颜色-->
+    <color name="T_light">#b0000000</color>
+    <color name="T_all">#00000000</color>
+    <color name="T_dark">#e0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="T_mini_black">#bd000000</color>
+    <color name="T_mini_gay">#bda1a1a1</color>
+    <color name="T_mini_blue">#ac39acc2</color>
+    <color name="T_mini_blue_light">#d002d3e7</color>
+    <!--项目颜色值-->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="pink">#efe1a5a5</color>
+    <color name="green">#88c941</color>
+    <color name="red">#ffe24848</color>
+    <color name="red_light">#c26a6a</color>
+    <color name="yellow">#fff9c14e</color>
+    <color name="orange">#d76e2a</color>
+    <color name="gray">#bebebe</color>
+    <color name="gray_for_text_like_hint">#838181</color>
+
+    <color name="at_blue">#18A0D1</color>
+    <color name="blue_light">#00a8fe</color>
+    <color name="blue_dark">#2b76bc</color>
+    <color name="black_light">#33000000</color>
+    <color name="black_drak">#AA000000</color>
+    <color name="table_red">#cc1330</color>
+    <color name="cost">#FF8605</color>
+    <color name="empty_color">#cbcbd4</color>
+    <color name="light_gray">#fafafa</color>
+</resources>

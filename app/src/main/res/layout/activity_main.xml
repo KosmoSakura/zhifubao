@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="zhi.soft.com.zhifubao.MainActivity">
+
+
+    <EditText
+        android:id="@+id/main_price"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/text_blue_round_all_cirlce"
+        android:digits="0123456789."
+        android:hint="输入作假金额"
+        android:textSize="14sp"
+        />
+
+    <EditText
+        android:id="@+id/main_name"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/main_price"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/text_blue_round_all_cirlce"
+        android:hint="输入收款名字"
+        android:textSize="14sp"
+        />
+
+    <TextView
+        android:id="@+id/main_next"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_below="@id/main_price"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/text_blue_dark_round_all_circle"
+        android:gravity="center"
+        android:text="确定"
+        android:textColor="@color/white"
+        android:textSize="16sp"/>
+</RelativeLayout>
